@@ -19,7 +19,6 @@ A simple tic-tac-toe game.
 
 Make sure you have the following installed:
 - Node.js (LTS version recommended)
-- Angular CLI
 
 Follow these steps to set up the project locally:
 
